@@ -1,0 +1,18 @@
+C:\MI PC\cobitsys\Implementacion\TECNOWEB\PRESTASHOP\Formulario\Prestashop_Form\Prestashop_Form\bin\Debug\Prestashop_Form.exe.config
+C:\MI PC\cobitsys\Implementacion\TECNOWEB\PRESTASHOP\Formulario\Prestashop_Form\Prestashop_Form\bin\Debug\Prestashop_Form.exe
+C:\MI PC\cobitsys\Implementacion\TECNOWEB\PRESTASHOP\Formulario\Prestashop_Form\Prestashop_Form\bin\Debug\Prestashop_Form.pdb
+C:\MI PC\cobitsys\Implementacion\TECNOWEB\PRESTASHOP\Formulario\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.csprojResolveAssemblyReference.cache
+C:\MI PC\cobitsys\Implementacion\TECNOWEB\PRESTASHOP\Formulario\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.Properties.Resources.resources
+C:\MI PC\cobitsys\Implementacion\TECNOWEB\PRESTASHOP\Formulario\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.csproj.GenerateResource.Cache
+C:\MI PC\cobitsys\Implementacion\TECNOWEB\PRESTASHOP\Formulario\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.exe
+C:\MI PC\cobitsys\Implementacion\TECNOWEB\PRESTASHOP\Formulario\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.pdb
+C:\MI PC\cobitsys\Implementacion\TECNOWEB\PRESTASHOP\Formulario\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.Form1.resources
+C:\Users\wmarcillo\Downloads\Clases2\Prestashop_Form\Prestashop_Form\bin\Debug\Prestashop_Form.exe.config
+C:\Users\wmarcillo\Downloads\Clases2\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.exe
+C:\Users\wmarcillo\Downloads\Clases2\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.pdb
+C:\Users\wmarcillo\Downloads\Clases2\Prestashop_Form\Prestashop_Form\bin\Debug\Prestashop_Form.exe
+C:\Users\wmarcillo\Downloads\Clases2\Prestashop_Form\Prestashop_Form\bin\Debug\Prestashop_Form.pdb
+C:\Users\wmarcillo\Downloads\Clases2\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.csprojResolveAssemblyReference.cache
+C:\Users\wmarcillo\Downloads\Clases2\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.Form1.resources
+C:\Users\wmarcillo\Downloads\Clases2\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.Properties.Resources.resources
+C:\Users\wmarcillo\Downloads\Clases2\Prestashop_Form\Prestashop_Form\obj\Debug\Prestashop_Form.csproj.GenerateResource.Cache

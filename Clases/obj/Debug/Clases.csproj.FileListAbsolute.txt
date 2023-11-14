@@ -1,0 +1,111 @@
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\Clases.exe.config
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\Clases.exe
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\Clases.pdb
+E:\Angels\Cursos\C#\Clases\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+E:\Angels\Cursos\C#\Clases\Clases\obj\Debug\Clases.Form1.resources
+E:\Angels\Cursos\C#\Clases\Clases\obj\Debug\Clases.Properties.Resources.resources
+E:\Angels\Cursos\C#\Clases\Clases\obj\Debug\Clases.csproj.GenerateResource.cache
+E:\Angels\Cursos\C#\Clases\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+E:\Angels\Cursos\C#\Clases\Clases\obj\Debug\Clases.exe
+E:\Angels\Cursos\C#\Clases\Clases\obj\Debug\Clases.pdb
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\Newtonsoft.Json.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\RestSharp.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\Newtonsoft.Json.xml
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\RestSharp.xml
+E:\Angels\Cursos\C#\Clases\Clases\obj\Debug\Clases.csproj.CopyComplete
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\DevExpress.Xpo.v17.1.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\DevExpress.Xpo.v17.1.xml
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+E:\Angels\Cursos\C#\Clases\Clases\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\Clases.exe.config
+C:\Users\wmarcillo\Downloads\Clases\Clases\obj\Debug\Clases.exe
+C:\Users\wmarcillo\Downloads\Clases\Clases\obj\Debug\Clases.pdb
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\Clases.exe
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\Clases.pdb
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\RestSharp.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\RestSharp.xml
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\wmarcillo\Downloads\Clases\Clases\obj\Debug\Clases.Form1.resources
+C:\Users\wmarcillo\Downloads\Clases\Clases\obj\Debug\Clases.Properties.Resources.resources
+C:\Users\wmarcillo\Downloads\Clases\Clases\obj\Debug\Clases.csproj.GenerateResource.Cache
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\Clases.exe.config
+C:\Users\wmarcillo\Downloads\Clases2\Clases\obj\Debug\Clases.exe
+C:\Users\wmarcillo\Downloads\Clases2\Clases\obj\Debug\Clases.pdb
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\Clases.exe
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\Clases.pdb
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\RestSharp.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\RestSharp.xml
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\wmarcillo\Downloads\Clases2\Clases\obj\Debug\Clases.Form1.resources
+C:\Users\wmarcillo\Downloads\Clases2\Clases\obj\Debug\Clases.Properties.Resources.resources
+C:\Users\wmarcillo\Downloads\Clases2\Clases\obj\Debug\Clases.csproj.GenerateResource.Cache
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\Clases.exe.config
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\obj\Debug\Clases.exe
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\obj\Debug\Clases.pdb
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\Clases.exe
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\Clases.pdb
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\RestSharp.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\RestSharp.xml
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\obj\Debug\Clases.Form1.resources
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\obj\Debug\Clases.Properties.Resources.resources
+C:\Users\wmarcillo\Downloads\Clases2 - VS\Clases\obj\Debug\Clases.csproj.GenerateResource.Cache
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\bin\Debug\Clases.exe.config
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\bin\Debug\Clases.exe
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\bin\Debug\Clases.pdb
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\bin\Debug\RestSharp.dll
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\bin\Debug\RestSharp.xml
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\obj\Debug\Clases.Form1.resources
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\obj\Debug\Clases.Properties.Resources.resources
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\obj\Debug\Clases.csproj.GenerateResource.cache
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\obj\Debug\Clases.exe
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\obj\Debug\Clases.pdb
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\wmarcillo\Desktop\Clases2 - VS-20211014T155456Z-001\Clases2 - VS\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache

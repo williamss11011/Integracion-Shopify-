@@ -1,0 +1,29 @@
+﻿{
+    "exito": true,
+    "comprobante": {
+        "serie": "XY01",
+        "numero": 25,
+        "total": 200,
+        "cliente": "Roberto",
+        "detalle": [
+            {
+                "id": 1,
+                "descripcion": "Laptop",
+                "precio": 100,
+                "cantidad": 1
+            },
+            {
+                "id": 2,
+                "descripcion": "celular",
+                "precio": 50,
+                "cantidad": 1
+            },
+            {
+                "id": 3,
+                "descripcion": "table",
+                "precio": 50,
+                "cantidad": 1
+            }
+        ]
+    }
+}
